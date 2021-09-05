@@ -8,15 +8,15 @@
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square)&nbsp;
 <!--[![Tested on Python 3.7](https://img.shields.io/badge/Tested%20-Python%203.7-blue.svg?logo=python&style=flat-square)]( https://www.python.org/downloads) &nbsp;-->
 
-* [Basics](Basics)
-* [Data Structure](Data Structure)
-* [Algorithm](Algorithm)
-* [Computer Networking](Computer Networking)
-* [Operating System](Operating System)
-* [Blockchain](Blockchain)
-* [AI](AI)
-* [Other](Other)
-* Project Euler(Project Euler)
+* [Basics](#Basics)
+* [Data Structure](#Data Structure)
+* [Algorithm](#Algorithm)
+* [Computer Networking](#Computer Networking)
+* [Operating System](#Operating System)
+* [Blockchain](#Blockchain)
+* [AI](#AI)
+* [Other](#Other)
+* [Project Euler](#Project Euler)
   
 * * *
 
@@ -330,9 +330,6 @@
   * [Diophantine Equation](https://github.com/TheAlgorithms/Python/blob/master/blockchain/diophantine_equation.py)
   * [Modular Division](https://github.com/TheAlgorithms/Python/blob/master/blockchain/modular_division.py)
 
-
-
-
 * * *
 
 # Basics
@@ -526,6 +523,9 @@
 ## Genetic Algorithm
   * [Basic String](https://github.com/TheAlgorithms/Python/blob/master/genetic_algorithm/basic_string.py)
 
+## Computer Vision
+  * [Harriscorner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harriscorner.py)
+
 * * *
 
 # Other
@@ -608,6 +608,9 @@
   * [Sepia](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/sepia.py)
   * [Test Digital Image Processing](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/test_digital_image_processing.py)
 
+## Fuzzy Logic
+  * [Fuzzy Operations](https://github.com/TheAlgorithms/Python/blob/master/fuzzy_logic/fuzzy_operations.py)
+  
 ## Geodesy
   * [Haversine Distance](https://github.com/TheAlgorithms/Python/blob/master/geodesy/haversine_distance.py)
   * [Lamberts Ellipsoidal Distance](https://github.com/TheAlgorithms/Python/blob/master/geodesy/lamberts_ellipsoidal_distance.py)
