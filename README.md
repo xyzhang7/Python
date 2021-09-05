@@ -9,14 +9,14 @@
 <!--[![Tested on Python 3.7](https://img.shields.io/badge/Tested%20-Python%203.7-blue.svg?logo=python&style=flat-square)]( https://www.python.org/downloads) &nbsp;-->
 
 * [Basics](#Basics)
-* [Data Structure](#Data Structure)
+* [Data Structure](#Data-Structure)
 * [Algorithm](#Algorithm)
-* [Computer Networking](#Computer Networking)
-* [Operating System](#Operating System)
+* [Computer Networking](#Computer-Networking)
+* [Operating System](#Operating-System)
 * [Blockchain](#Blockchain)
 * [AI](#AI)
 * [Other](#Other)
-* [Project Euler](#Project Euler)
+* [Project Euler](#Project-Euler)
   
 * * *
 
